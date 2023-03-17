@@ -1,0 +1,21 @@
+.inputGroup{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.inputGroup label{
+    font-size: large;
+    margin-bottom: .2rem;
+
+}
+
+.inputGroup input{
+    padding: .5rem;
+    /* background-color: transparent; */
+    outline: none;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+
+}
